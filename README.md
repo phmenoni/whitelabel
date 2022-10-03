@@ -1,3 +1,7 @@
+Autor: Paulo Henrique Menoni, MSc.
+Autora: Cecília de Freitas Morais, PhD.
+
+
 Instalação dos softwares no Raspberry pi-ovs01:
 
 Instalando o protocolo de descoberta de rede (LLDP) e monitoração (SNMP):
